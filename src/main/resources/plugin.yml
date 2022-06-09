@@ -1,0 +1,9 @@
+name: VoidToSpawn
+version: '${project.version}'
+main: me.knighthat.plugin.VoidToSpawn
+api-version: 1.18
+authors: [ knighthat ]
+website: https://github.com/knighthat
+commands:
+  voidtospawn:
+    aliases: [ vts, void ]
